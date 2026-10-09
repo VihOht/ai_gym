@@ -1,7 +1,7 @@
 """
 This module implements various search algorithms, including
 Breadth-first search, Depth-first search, Iterative Deepening
-Depth-first search, Uniform Cost search, Greedy search, and
+Depth-first search, Uniform Cost search, Greedy search, MinMax, and
 A* search algorithms. Each algorithm is implemented as a subclass
 of the SearchAlgorithm class.
 """

@@ -23,6 +23,7 @@ from .search_algorithms import (
     BuscaCustoUniforme,
     BuscaGananciosa,
     AEstrela,
+    MinMax
 )
 from .csp_algorithms import SubidaMontanha, SubidaMontanhaEstocastico
 
@@ -35,6 +36,7 @@ __all__ = [
     "BuscaCustoUniforme",
     "BuscaGananciosa",
     "AEstrela",
+    "MinMax",
     "SubidaMontanha",
     "SubidaMontanhaEstocastico",
 ]
